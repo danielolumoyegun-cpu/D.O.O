@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Dark background rounded square -->
+  <rect width="512" height="512" rx="100" ry="100" fill="#0d120a"/>
+  
+  <!-- Outer green circle -->
+  <circle cx="256" cy="256" r="230" fill="#1a3a14"/>
+  
+  <!-- Gold ring -->
+  <circle cx="256" cy="256" r="220" fill="none" stroke="#d4a843" stroke-width="6"/>
+  <circle cx="256" cy="256" r="200" fill="none" stroke="#d4a843" stroke-width="2"/>
+
+  <!-- D.O.O text in gold -->
+  <text
+    x="256"
+    y="295"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="148"
+    font-weight="700"
+    fill="#d4a843"
+    text-anchor="middle"
+    letter-spacing="4"
+  >D.O.O</text>
+
+  <!-- Underline accent -->
+  <line x1="120" y1="320" x2="392" y2="320" stroke="#d4a843" stroke-width="3" opacity="0.6"/>
+</svg>
